@@ -6,7 +6,7 @@
 
 ### Repository overview
 
-- Name: 2627-weekly-session
+- Name: 2627-weekly
 - Purpose: a community-maintained collection of session materials, schedules, and notes for the 2627 Weekly Session Series. All session material files are stored in `Contents/`.
 
 ### Repository structure
